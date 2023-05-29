@@ -1,0 +1,24 @@
+body{
+    background-color: #ffffff;
+    margin: 0;
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+header{
+    position: relative;
+    background-color: rgb(42, 141, 203);
+    display: flex;
+}
+header table:last-child{
+    
+}
+article table{
+    display: inline;
+}
+header img{
+    width: 250px;
+}
+header h3{
+    
+    display: inline-block;
+}
